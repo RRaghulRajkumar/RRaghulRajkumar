@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RRaghulRajkumar
 - 👀 I’m interested in AI and Datascience project
-- 🌱 I’m currently learning html,css,python,c++.
+- 🌱 I’m currently learning html,css,Javascript,python,c++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arajkumarcssd@gmail.com
 
