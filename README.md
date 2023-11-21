@@ -6,9 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rraghulrajkumar" alt="rraghulrajkumar" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- **Machine Learning and Deep Learning**
 
-- 📫 How to reach me **rraghulrajkumar@gmail.com**
+- <img src='https://imgs.search.brave.com/0onedxgdJWLsAOrzVTbco23TxXLuDJGb_uBUL74bc7k/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n' width="30" height="30"><a href='https://www.linkedin.com/in/rraghulrajkumar/'> LinkedIn<a/> 
+
+- <img src='https://imgs.search.brave.com/zgwMfgOZ4Diu_-H15ANInh7BUvMMVhBkFtrAKpH1UAw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAzLzg2LzUwLzU0/LzM2MF9GXzM4NjUw/NTQ4N19vbWtVMGtH/RWhNYTNnUTgzclZr/c29YWDQxQUZGZmkw/Sy5qcGc'  width="30" height="30"> **rraghulrajkumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
