@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150)
 
 <h1 align="center">Hi 🚀, I'm Raghul Rajkumar.R</h1>
 <h3 align="center">Data Alchemist & Storyteller 🚀 | Explorer of the Data Cosmos 🔎 | Data Scientist 🎓</h3>
@@ -51,5 +51,8 @@
 ![RaghulRajkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraghulrajkumar&theme=outrun&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rraghulrajkumar&" alt="rraghulrajkumar" /></p>
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&section=footer&height=150)
 
 
