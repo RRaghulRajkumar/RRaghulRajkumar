@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://rraghulrajkumar.github.io/Resume-doc/](https://rraghulrajkumar.github.io/Resume-doc/)
 
-- ⚡ Fun fact **Data is Everything 🦾**
+- ⚡ Fun fact 🤭  **Data is Everything 🦾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
