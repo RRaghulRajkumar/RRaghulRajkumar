@@ -1,5 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving)
+
 <h1 align="center">Hi 🚀, I'm Raghul Rajkumar.R</h1>
 <h3 align="center">Data Alchemist & Storyteller 🚀 | Explorer of the Data Cosmos 🔎 | Data Scientist 🎓</h3>
+
 
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
@@ -41,10 +44,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee ☕️"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee ☕️" /></a></p><br><br>
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rraghulrajkumar&show_icons=true&locale=en&layout=compact" alt="rraghulrajkumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rraghulrajkumar&show_icons=true&locale=en" alt="rraghulrajkumar" /></p>
+
+
+![RaghulRajkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraghulrajkumar&theme=outrun&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rraghulrajkumar&" alt="rraghulrajkumar" /></p>
+
+
